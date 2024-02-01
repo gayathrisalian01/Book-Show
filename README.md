@@ -1,5 +1,7 @@
 ## Book Show Application Screenshots
 
+<img src="https://github.com/gayathrisalian01/Book-Show-app/blob/main/assets/141249949/a9ba2413-e5d1-4734-83ee-20a583efb873" alt="Home" width="500" height="300">
+
 ![Home](https://github.com/gayathrisalian01/Book-Show-app/assets/141249949/a9ba2413-e5d1-4734-83ee-20a583efb873)
 
 # Getting Started with Create React App
