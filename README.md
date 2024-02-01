@@ -1,3 +1,7 @@
+# Book Show Application Screenshot
+
+![Home](https://github.com/gayathrisalian01/Book-Show-app/blob/main/assets/141249949/a9ba2413-e5d1-4734-83ee-20a583efb873)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
