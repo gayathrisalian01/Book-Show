@@ -8,6 +8,8 @@
 ### Details page when status is ended
 ![Summary page](https://github.com/gayathrisalian01/Book-Show-app/assets/141249949/2a3c43b9-78d5-4283-9d8e-89f64d002161)
 
+### After user clicks Book Movie Ticket button
+![Form](https://github.com/gayathrisalian01/Book-Show-app/assets/141249949/a965471d-660f-49a3-9039-2f7dd0f88a0a)
 
 
 # Getting Started with Create React App
