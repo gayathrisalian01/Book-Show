@@ -25,7 +25,7 @@ const ShowDetails = () => {
       {show ? (
         <div>
           <h2>{show.name}</h2>
-          <p>{show.summary}</p>
+          <p dangerouslySetInnerHTML={{ __html: show.summary }} />
           <Link to="/">Back to Home</Link>
         </div>
       ) : (
