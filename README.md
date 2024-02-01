@@ -1,8 +1,14 @@
 ## Book Show Application Screenshots
 
-<img src="https://github.com/gayathrisalian01/Book-Show-app/blob/main/assets/141249949/a9ba2413-e5d1-4734-83ee-20a583efb873" alt="Home" width="500" height="300">
-
 ![Home](https://github.com/gayathrisalian01/Book-Show-app/assets/141249949/a9ba2413-e5d1-4734-83ee-20a583efb873)
+
+### Details page when status is running
+![Summary Page](https://github.com/gayathrisalian01/Book-Show-app/assets/141249949/7bc0ec5b-b8ab-4e80-868b-3c8d02e08529)
+
+### Details page when status is ended
+![Summary page](https://github.com/gayathrisalian01/Book-Show-app/assets/141249949/2a3c43b9-78d5-4283-9d8e-89f64d002161)
+
+
 
 # Getting Started with Create React App
 
